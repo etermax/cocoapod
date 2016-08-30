@@ -13,6 +13,7 @@
   },
   "source": {
     "git": "https://github.com/etermax/cocoapod.git",
+    "branch": "static-workaround-test"
   },
   "platforms": {
     "ios": "6.0",
